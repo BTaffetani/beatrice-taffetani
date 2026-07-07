@@ -16,9 +16,7 @@ Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella 
 
 ## 📊 I Miei Progetti Principali
 
-*(Usa questa sezione per linkare i repository dei tuoi progetti migliori, descritti al Passo 2)*
-
-1.  **[Nome Progetto Data Science 1](./link-al-repo)**: Breve descrizione di una riga sull'obiettivo (es. Modello predittivo per...) | *Python, Scikit-Learn, SQL*
+1.  **[Software gestionale per un negozio di prodotti vegani](https://github.com/BTaffetani/Software-gestionale-per-un-negozio-vegano.git)**: Software a riga di comando per la gestione del magazzino di un negozio di prodotti vegani | *Python*
 2.  **[Nome Progetto Data Analysis 2](./link-al-repo)**: Breve descrizione (es. Dashboard interattiva per l'analisi di...) | *Tableau, Python, Pandas*
 
 ---
