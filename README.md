@@ -1,6 +1,6 @@
 # Beatrice Taffetani
 
-### Chi sono
+## Chi sono
 
 Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella modellazione quantitativa. Unisco una solida base matematica a competenze pratiche in programmazione, analisi dati e machine learning. Sono una persona autonoma, creativa e con una forte inclinazione alla soluzione dei problemi.
 
