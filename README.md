@@ -17,8 +17,9 @@ Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella 
 ## 📊 I Miei Progetti Principali
 
 1.  **[Software gestionale per un negozio di prodotti vegani](https://github.com/BTaffetani/Software-gestionale-per-un-negozio-vegano.git)**: Software a riga di comando per la gestione del magazzino di un negozio di prodotti vegani | *Python*
-2.  **[Analisi del mercato immobiliare del Texas](https://github.com/BTaffetani/Analisi-del-mercato-immobiliare-del-Texas))**: Notebook di statistica descrittiva riguardante l'analisi dei dati di vendita di immobili di un'agenzia immobiliare | *R*
+2.  **[Analisi del mercato immobiliare del Texas](https://github.com/BTaffetani/Analisi-del-mercato-immobiliare-del-Texas)**: Notebook di statistica descrittiva riguardante l'analisi dei dati di vendita di immobili di un'agenzia immobiliare | *R*
 3.  **[Modello statistico per la previsione del peso dei neonati](https://github.com/BTaffetani/Modello-statistico-per-la-previsione-del-peso-dei-neonati)**: Notebook di statistica inferenziale riguardante un modello di previsione per il peso neonatale per un circuito ospedaliero | *R*
+4.  **[Modello per la previsione di opportunità di cross-selling assicurativo](https://github.com/BTaffetani/Modello-per-la-predizione-di-opportunit-di-cross-selling-assicurativo/)**: Modello di machine learning per la previsione di opportunità di cross-selling | *Python*
 
 ---
 
