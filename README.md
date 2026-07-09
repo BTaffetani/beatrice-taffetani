@@ -1,12 +1,12 @@
 # Beatrice Taffetani
 
-### Data Scientist & Analyst | Background in Mathematics
+### Chi sono
 
 Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella modellazione quantitativa. Unisco una solida base matematica a competenze pratiche in programmazione, analisi dati e machine learning. Sono una persona autonoma, creativa e con una forte inclinazione alla soluzione dei problemi.
 
 ---
 
-## 🛠️ Competenze Tecniche
+## Competenze Tecniche
 
 *   **Linguaggi di programmazione:** Python, SQL, R
 *   **Visualizzazione & Analisi Dati:** Microsoft Excel, Tableau, Power BI, Databricks
@@ -14,7 +14,7 @@ Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella 
 
 ---
 
-## 📊 I Miei Progetti Principali
+## I Miei Progetti Principali
 
 1.  **[Software gestionale per un negozio di prodotti vegani](https://github.com/BTaffetani/Software-gestionale-per-un-negozio-vegano.git)**: Software a riga di comando per la gestione del magazzino di un negozio di prodotti vegani | *Python*
 2.  **[Analisi del mercato immobiliare del Texas](https://github.com/BTaffetani/Analisi-del-mercato-immobiliare-del-Texas)**: Notebook di statistica descrittiva riguardante l'analisi dei dati di vendita di immobili di un'agenzia immobiliare | *R*
@@ -23,7 +23,7 @@ Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella 
 
 ---
 
-## 📫 Come Contattarmi
+## Come Contattarmi
 
 *   **LinkedIn:** [linkedin.com/in/beatricetaffetani](https://www.linkedin.com/in/beatricetaffetani)
 *   **Email:** beatricetaffetanil@gmail.com
