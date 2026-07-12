@@ -21,6 +21,7 @@ Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella 
 3.  **[Modello statistico per la previsione del peso dei neonati](https://github.com/BTaffetani/Modello-statistico-per-la-previsione-del-peso-dei-neonati)**: Notebook di statistica inferenziale riguardante un modello di previsione per il peso neonatale per un circuito ospedaliero | *R*
 4.  **[Modello per la previsione di opportunità di cross-selling assicurativo](https://github.com/BTaffetani/Modello-per-la-predizione-di-opportunit-di-cross-selling-assicurativo/)**: Modello di machine learning per la previsione di opportunità di cross-selling | *Python*
 5.  **[Modello per la previsione dell'affidabilità creditizia](https://github.com/BTaffetani/Modello-per-la-previsione-dell-affidabilit-creditizia/)**: Analisi e modello di machine learning per la previsione del rilascio di una linea di credito | *Python*
+6.  **[Sistema di face detection per una fotocamera digitale](https://github.com/BTaffetani/Sistema-di-face-detection-per-una-fotocamera-digitale/)**: Modello per la rilevazione dei volti nelle fotocamere digitali compatte | *Python*
 
 ---
 
