@@ -25,6 +25,7 @@ Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella 
 7.  **[Filtro anti-hater per i social metwork](https://github.com/BTaffetani/Filtro-anti-hater-per-social-network)**: Modello di deep learning per la moderazione dei commenti sui social media | *Python*
 8.  **[Analisi e classificazione delle email per la rilevazione dello spam](https://github.com/BTaffetani/Analisi-e-classificazione-delle-email-per-la-rilevazione-dello-spam/)**: Modello di classificazione testuale per le email di spam | *Python*
 9.  **[Analisi dei clienti di una banca](https://github.com/BTaffetani/Analisi-dei-clienti-di-una-banca/)**: Analisi e costruzione di una tabella denormalizzata dal database della clientela di una banca | *SQL*
+10.  **[Analisi di Wikipedia](https://github.com/BTaffetani/Analisi-di-Wikipedia/)**: Analisi e modello di classificazione testuale di un corpus di articoli di Wikipedia | *Python*
 
 ---
 
