@@ -23,6 +23,7 @@ Amo lavorare con i dati e ho maturato una buona esperienza nell'analisi e nella 
 5.  **[Modello per la previsione dell'affidabilità creditizia](https://github.com/BTaffetani/Modello-per-la-previsione-dell-affidabilit-creditizia/)**: Analisi e modello di machine learning per la previsione del rilascio di una linea di credito | *Python*
 6.  **[Sistema di face detection per una fotocamera digitale](https://github.com/BTaffetani/Sistema-di-face-detection-per-una-fotocamera-digitale/)**: Modello per la rilevazione dei volti nelle fotocamere digitali compatte | *Python*
 7.  **[Filtro anti-hater per i social metwork](https://github.com/BTaffetani/Filtro-anti-hater-per-social-network)**: Modello di deep learning per la moderazione dei commenti sui social media | *Python*
+8.  **[Analisi e classificazione delle email per la rilevazione dello spam](https://github.com/BTaffetani/Analisi-e-classificazione-delle-email-per-la-rilevazione-dello-spam/)**: Modello di classificazione testuale per le email di spam | *Python*
 
 ---
 
